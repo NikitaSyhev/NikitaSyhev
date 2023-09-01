@@ -9,4 +9,4 @@
 2) Сайт для Regex: http://regexstorm.net/tester
 
 
-СТЕК: C++, C#.
+СТЕК: C++, C#, .NET, Windows Forms, PWF.

@@ -10,4 +10,6 @@
 3) валидатор сайта: https://validator.w3.org/#validate_by_upload
 
 
-СТЕК: C++, C#, .NET, Windows Forms, WPF.
+СТЕК: 
+Back: C++, C#, .NET, Windows Forms, WPF.
+Front: JavaScript, React.

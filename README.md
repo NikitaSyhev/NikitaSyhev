@@ -8,7 +8,7 @@
 **Цель:** попасть на стажировку Frontend разработчиков в Авито Тех.
 
 
-Здесь для себя сохраняю полезные сайты для обучения:
+Полезные сайты для обучения:
 1) Хороший сайт: https://metanit.com/
 2) Сайт для Regex: http://regexstorm.net/tester
 3) валидатор сайта: https://validator.w3.org/#validate_by_upload

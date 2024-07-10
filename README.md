@@ -8,6 +8,9 @@
 **Цель:** попасть на стажировку Frontend разработчиков в Авито Тех.
 
 
+Мой CodeWars: https://www.codewars.com/users/NikitaSyhev
+
+
 Полезные сайты для обучения:
 1) Хороший сайт: https://metanit.com/
 2) Сайт для Regex: http://regexstorm.net/tester

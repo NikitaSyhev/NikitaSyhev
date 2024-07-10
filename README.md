@@ -16,5 +16,4 @@
 
 
 СТЕК: <br>
-Back: C++, C#, .NET, Windows Forms, WPF.<br>
-Front: JavaScript, React.
+**Front:** Java Script ES6+, React.

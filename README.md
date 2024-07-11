@@ -18,6 +18,7 @@
 4) еще один конструктор регулярных выражений: https://regex101.com/
 5) Babel - трансмиттер: https://babeljs.io/
 6) список браузеров: https://browserslist.dev/?q=bGFzdCAyIHZlcnNpb25z
+7) полифил - core.js: https://github.com/zloirock/core-js
 
 
 СТЕК: <br>

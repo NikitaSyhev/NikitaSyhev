@@ -16,7 +16,8 @@
 2) Сайт для Regex: http://regexstorm.net/tester
 3) валидатор сайта: https://validator.w3.org/#validate_by_upload
 4) еще один конструктор регулярных выражений: https://regex101.com/
-5) Babel - трансмиттер: https://babeljs.io/ 
+5) Babel - трансмиттер: https://babeljs.io/
+6) список браузеров: https://browserslist.dev/?q=bGFzdCAyIHZlcnNpb25z
 
 
 СТЕК: <br>

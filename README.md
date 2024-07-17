@@ -20,6 +20,7 @@
 6) список браузеров: https://browserslist.dev/?q=bGFzdCAyIHZlcnNpb25z
 7) полифил - core.js: https://github.com/zloirock/core-js
 8) ES6 promise polyfil: https://www.npmjs.com/package/es6-promise-polyfill
+9) JEST: https://jestjs.io/docs/getting-started
 
 
 СТЕК: <br>

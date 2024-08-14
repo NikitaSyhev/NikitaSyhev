@@ -21,6 +21,7 @@
 7) полифил - core.js: https://github.com/zloirock/core-js
 8) ES6 promise polyfil: https://www.npmjs.com/package/es6-promise-polyfill
 9) JEST: https://jestjs.io/docs/getting-started
+10) Lodash: https://lodash.com/docs/4.17.15
 
 
 СТЕК: <br>

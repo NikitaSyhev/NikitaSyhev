@@ -23,6 +23,7 @@
 9) JEST: https://jestjs.io/docs/getting-started
 10) Lodash: https://lodash.com/docs/4.17.15
 11) Express Framework: https://expressjs.com/ru/
+12) CDN: https://cdnjs.com/
 
 
 СТЕК: <br>

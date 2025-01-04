@@ -26,6 +26,7 @@
 12) CDN: https://cdnjs.com/
 13) Bootstrap: [https://bootstrap-4.ru/docs/5.3/getting-started/introduction/](https://getbootstrap.com/docs/5.0/components/buttons/)
 14) REACT STYLED COMPONENTS: https://styled-components.com/
+15) БЭМ: https://ru.bem.info/methodology/
 
 
 СТЕК: <br>

@@ -28,7 +28,7 @@
 14) REACT STYLED COMPONENTS: https://styled-components.com/
 15) БЭМ: https://ru.bem.info/methodology/
 16) React Bootstrap: https://react-bootstrap.github.io/
-
+17) Material Design: https://mui.com/
 
 СТЕК: <br>
 **Front:** Java Script ES6+, React.
